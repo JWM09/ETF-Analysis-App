@@ -45,7 +45,7 @@ In regards to data analysis, we are able to conlcude that the ETF Portfolio we a
   
 Finally, we demonstrated our ability to use voila to create web pages out of the Jupyter Notebook.  As an example we ran voila on the web_app notebook, and that screen capture is below:
   
-  ![web app voila](Images/web_app_voila)
+  ![web app voila](Images/web_app_voila.png)
 
 ---
 
